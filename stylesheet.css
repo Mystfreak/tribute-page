@@ -1,0 +1,26 @@
+#title {
+  color: red;
+  text-align: center;
+  font-family: Fantasy;
+  font-size: 60px;
+}
+#main{
+  background-color: black;
+}
+#tribute-info{
+  color: white;
+  font-family: Verdana;
+  font-size: 20px;
+}
+#img-div {
+  margin: 0px 200px 0px 200px;
+  padding: 0px 200px 0px 200px;
+}
+
+img {
+  border-radius: 10px;
+  width: 600px;
+  max-width: 100%;
+  height: auto;
+  display: block;
+}
